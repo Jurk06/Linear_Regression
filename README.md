@@ -4,4 +4,6 @@ https://raw.githubusercontent.com/araj2/customer-database/master/Ecommerce%20Cus
 Here is the dataset for Ecommerce company 
 
 
-Box-office-prediction using Linear Regression 
+Box-office-prediction using Linear Regression -Dataset from kaggle.com
+
+
